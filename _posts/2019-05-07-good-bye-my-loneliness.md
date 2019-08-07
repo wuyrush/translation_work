@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good-bye My Loneliness - ZARD
+title: Good-bye My Loneliness - ZARD(坂井泉水)
 date: 2019-05-07 22:15:00 +0200
 categories: jp-cn 
 ---
